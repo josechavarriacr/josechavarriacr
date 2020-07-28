@@ -28,6 +28,8 @@ Skills: Nodejs/ Expressjs/Sequelize and PostgreSQL/Mongoose and MongoDB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=josechavarriacr&show_icons=true)  
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josechavarriacr&count_private=true&layout=compact)
 
 [![Mercaditocr](https://github-readme-stats.vercel.app/api/pin/?username=MercaditoProjectcr&repo=mercaditocr)](https://github.com/MercaditoProjectcr/mercaditocr)
+-->
