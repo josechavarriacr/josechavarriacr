@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Jose Chavarria aka Rafa, a software engineer with a passion for programming and free software.
-
-Skills: Nodejs/ Expressjs/Sequelize and PostgreSQL/Mongoose and MongoDB
+I'm Jose Chavarria aka Rafa, a Software Architect & Full Stack Developer with a passion for programming and free software.
 
 - 🔭 I’m currently working on a regional open software project. 
-- 🌱 I’m currently learning Go and Docker/Kubernetes 
-- 💬 Ask me about Nodejs 
+- 💬 Ask me about Soffware Architect Strategy 
 
 ![Profile views](https://gpvc.arturio.dev/josechavarriacr)  
 
